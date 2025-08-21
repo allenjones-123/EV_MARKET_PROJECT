@@ -1,0 +1,4 @@
+ChargerType,Power_kW,HardwareCost,InstallCost,LandLeaseCost,AvgRevenuePerSession,SessionsPerMonth,ElectricityPerSession_kWh,ElectricityCostPerkWh,MaintenanceCost,StaffCost,CRMSoftwareCost,MarketingCost,CapEx,ElectricityCost,MonthlyRevenue,MonthlyOPEX
+AC Slow,3.3,50000,15000,15000,70,100,6,8,1000,20000,3000,8000,65000,4800,7000,51800
+DC Fast,60.0,500000,200000,40000,600,180,35,8,8000,50000,3000,10000,700000,50400,108000,161400
+Ultra-Fast DC,150.0,2500000,600000,100000,800,250,40,8,15000,75000,5000,15000,3100000,80000,200000,290000

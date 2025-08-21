@@ -1,0 +1,4 @@
+Category,Risk Type,Likelihood,Impact,Risk Score,Preventive Controls,Corrective Controls,Owner,Monitoring Mechanism
+Policy,Tariff Uncertainty,5,4,20,Engage with regulators early; forecast ToD tariff bands,Dynamic pricing engine to adjust rates,Policy & Legal Team,Policy tracker; alerts
+Infra/Tech,Grid Downtime in Tier 2/3 Cities,4,5,20,On-site solar + battery backup; DISCOM tie-up,Portable gensets or reroute to alternate sites,Ops Head,Uptime dashboard
+Ops,Charger Uptime below SLA (<95%),4,4,16,Preventive maintenance + IoT sensors,SLA-penalty credit + emergency field service,Tech + Ops Team,Charger uptime logs

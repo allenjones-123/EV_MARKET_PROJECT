@@ -1,0 +1,19 @@
+Category,Risk Type,Likelihood,Impact,Risk Score
+Financial Risk,CapEx Overruns,3,4,12
+Financial Risk,Low Revenue Realization,3,5,15
+Financial Risk,OPEX Inflation,2,4,8
+Technology Risk,Hardware Obsolescence,4,5,20
+Technology Risk,Interoperability Issues,3,4,12
+Technology Risk,Software/CRM Failure,2,4,8
+Market/Demand Risk,Low Utilization,3,5,15
+Market/Demand Risk,Slow EV Adoption,2,4,8
+Market/Demand Risk,Customer Churn,3,3,9
+Regulatory Risk,Policy Reversal,2,5,10
+Regulatory Risk,Tariff Instability,3,4,12
+Regulatory Risk,Safety Norms Enforcement,3,3,9
+Operational Risk,Charger Downtime,4,4,16
+Operational Risk,Land/Power Access Delays,3,4,12
+Operational Risk,CRM & Service Inadequacy,2,3,6
+Partnership Risk,Fuel Station Contract Delays,3,3,9
+Partnership Risk,DISCOM Grid Integration Failures,3,4,12
+Partnership Risk,OEM Exit or Misalignment,2,4,8

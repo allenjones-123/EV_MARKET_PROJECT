@@ -1,0 +1,19 @@
+RiskCategory,RiskName,Description,ExampleScenario
+Financial,ROI Delays,Longer payback due to slower-than-expected revenue,Tier 2 station sees <50 sessions/month
+Financial,CapEx Overruns,"Equipment, installation costs exceed budget",Surge in DC Fast charger import prices
+Financial,Cash Flow Crunch,Inadequate working capital due to high OPEX,CRM & staff costs higher than planned
+Technology,Tech Obsolescence,New charging standards render installed chargers outdated,CCS3 launched but only CCS2 deployed
+Technology,Software Bugs,App or CRM bugs disrupt usage or analytics,Payment failures or app crashes
+Technology,Interoperability Gaps,Incompatibility with certain EV models/connectors,"Charger supports only Type-2, not Bharat AC001"
+Market/Demand,Price War Pressure,"Competitors lower pricing, eroding margins",Statiq offers ₹12/kWh while you offer ₹16/kWh
+Market/Demand,Demand Overestimation,Forecasted sessions/month not met,Urban mall chargers unused during weekdays
+Market/Demand,Consumer Preference Shift,Move to battery swapping or home charging reduces demand,2W users switch to swap models
+Regulatory/Policy,Tariff Regulation Shift,DISCOMs revise kWh tariffs or restrict commercial charging,₹8/unit jumps to ₹11/unit
+Regulatory/Policy,Policy Incentive Withdrawal,"Government reduces/subsidy support, FAME phaseout",PLI subsidy for infra withdrawn
+Regulatory/Policy,Approvals Delay,Delay in obtaining CEA/BIS or state EV permissions,Land use change not approved for public station
+Operational,Grid Capacity Limitations,Local grid can't support fast charger load,"Transformer supports only 20 kW, not 60 kW"
+Operational,Land Lease Conflict,"Lease termination, price hikes, or disputes",Mall revokes agreement or increases rent by 50%
+Operational,Low Charger Uptime,High downtime due to poor maintenance or network issues,60% uptime on key NH station
+Partnership,OEM/Franchise Dropout,Partners exit or fail to execute joint plans,Real estate partner pulls out after MoU
+Partnership,DISCOM Non-Cooperation,Grid operators delay connection or reject load addition requests,DISCOM delays 3-phase connection for 6 months
+Partnership,Payment Gateway Failures,"App-based or RFID payment gateway fails, hitting user experience",UPI gateway outage during peak hours

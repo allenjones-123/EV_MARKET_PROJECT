@@ -1,0 +1,5 @@
+﻿SegmentID,Segment_Name,Primary_User,Key_Location,Charger_Type,Motivation,Example_Persona,Infra_Priority
+A,Private EV Owners,Urban EV drivers,"Metros, Tier 2/3",AC 3.3kW–22kW,"Convenience, rewards",Priya Nair,"Home, Retail"
+B,Fleet Operators,Taxi & Delivery EVs,"Depots, Cities",DC 30kW–60kW,"Speed, uptime, analytics",Ahmed Khan,Urban Fleet Sites
+C,Real Estate & Retail,"Builders, RWAs","Housing, Tech Parks",AC Wallbox,"ESG compliance, ROI",Ritu Sharma,"Malls, Societies"
+D,Highway Travelers,Intercity EV users,NH Corridors,DC 50kW–150kW,"Speed, trust, travel amenities",Arvind Joshi,"Highways, Cafés"
